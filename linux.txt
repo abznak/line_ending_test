@@ -1,0 +1,3 @@
+BBB this file AAA
+BBB uses linux AAA
+BBB line endings AAA
